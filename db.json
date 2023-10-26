@@ -1,0 +1,136 @@
+{
+  
+  "quarto": [
+    {
+      "id": 1,
+      "numero": "1101",
+      "andar": "1",
+      "bloco": 1,
+      "status": "ocupado",
+      "hotel_id": 1,
+      "tipoQuarto_id": 4
+    },
+    {
+      "id": 1,
+      "numero": "2601",
+      "andar": "1",
+      "bloco": 2,
+      "status": "ocupado",
+      "hotel_id": 1,
+      "tipoQuarto_id": 1
+    },
+    {
+      "id": 1,
+      "numero": "2102",
+      "andar": "1",
+      "bloco": 2,
+      "status": "manutencao",
+      "hotel_id": 1,
+      "tipoQuarto_id": 2
+    },
+    {
+      "id": 1,
+      "numero": "1507",
+      "andar": "5",
+      "bloco": 1,
+      "status": "disponivel",
+      "hotel_id": 1,
+      "tipoQuarto_id": 4
+    }
+  ],
+  "tipoQuarto": [
+    {
+      "id": 1,
+      "titulo": "suite master",
+      "descricao": "xxxxxxxxxxxx",
+      "limiteAdulto": 4,
+      "limiteCrianca": 2,
+      "precoBase": 500,
+      "avaliacaoMedia": 5,
+      "diasCancelarReserva": 1,
+      "area": 70
+    },
+    {
+      "id": 2,
+      "titulo": "standart deluxe 1",
+      "descricao": "xxxxxxxxxxxx",
+      "limiteAdulto": 4,
+      "limiteCrianca": 2,
+      "precoBase": 500,
+      "avaliacaoMedia": 5,
+      "diasCancelarReserva": 1,
+      "area": 70
+    },
+    {
+      "id": 3,
+      "titulo": "standart deluxe 2",
+      "descricao": "xxxxxxxxxxxx",
+      "limiteAdulto": 4,
+      "limiteCrianca": 2,
+      "precoBase": 500,
+      "avaliacaoMedia": 5,
+      "diasCancelarReserva": 1,
+      "area": 70
+    },
+    {
+      "id": 4,
+      "titulo": "quaro king - frente mar",
+      "descricao": "xxxxxxxxxxxx",
+      "limiteAdulto": 4,
+      "limiteCrianca": 2,
+      "precoBase": 500,
+      "avaliacaoMedia": 5,
+      "diasCancelarReserva": 1,
+      "area": 70
+    }
+  ],
+  "comodidade": [
+    {
+      "id": 1,
+      "titulo": "ar condicionado",
+      "descricao": "xxxxxxxxxxx",
+      "tipoComodidade_id": 1
+    },
+    {
+      "id": 2,
+      "titulo": "elevador",
+      "descricao": "xxxxxxxxxxx",
+      "tipoComodidade_id": 2
+    },
+    {
+      "id": 3,
+      "titulo": "banheira hidro",
+      "descricao": "xxxxxxxxxxx",
+      "tipoComodidade_id": 3
+    },
+    {
+      "id": 4,
+      "titulo": "frigobar",
+      "descricao": "xxxxxxxxxxx",
+      "tipoComodidade_id": 1
+    },
+    {
+      "id": 4,
+      "titulo": "vista para o mar",
+      "descricao": "xxxxxxxxxxx",
+      "tipoComodidade_id": 2
+    }
+  ],
+  "tipoComodidade": [
+    {
+      "id": 1,
+      "titulo": "quarto",
+      "descricao": "comodidades ou caracteristicas do quarto"
+    },
+    {
+      "id": 2,
+      "titulo": "geral",
+      "descricao": "comodidades ou caracteristicas gerais que cercam o quarto ou hotel"
+    },
+    {
+      "id": 3,
+      "titulo": "higiene",
+      "descricao": "caracteristicas relacionada a higiene e banho"
+    }
+  ]
+}
