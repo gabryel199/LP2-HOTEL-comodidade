@@ -119,17 +119,17 @@
   "tipoComodidade": [
     {
       "id": 1,
-      "titulo": "quarto",
+      "titulo": "Quarto",
       "descricao": "comodidades ou caracteristicas do quarto"
     },
     {
       "id": 2,
-      "titulo": "geral",
+      "titulo": "Geral",
       "descricao": "comodidades ou caracteristicas gerais que cercam o quarto ou hotel"
     },
     {
       "id": 3,
-      "titulo": "higiene",
+      "titulo": "Higiene",
       "descricao": "caracteristicas relacionada a higiene e banho"
     }
   ]
