@@ -1,87 +1,25 @@
 {
-  
-  "quarto": [
+ 
+  "comodidadeTipoQuarto": [
     {
       "id": 1,
-      "numero": "1101",
-      "andar": "1",
-      "bloco": 1,
-      "status": "ocupado",
-      "hotel_id": 1,
-      "tipoQuarto_id": 4
-    },
-    {
-      "id": 1,
-      "numero": "2601",
-      "andar": "1",
-      "bloco": 2,
-      "status": "ocupado",
-      "hotel_id": 1,
+      "id_comodidade_id": 1,
       "tipoQuarto_id": 1
     },
     {
-      "id": 1,
-      "numero": "2102",
-      "andar": "1",
-      "bloco": 2,
-      "status": "manutencao",
-      "hotel_id": 1,
-      "tipoQuarto_id": 2
-    },
-    {
-      "id": 1,
-      "numero": "1507",
-      "andar": "5",
-      "bloco": 1,
-      "status": "disponivel",
-      "hotel_id": 1,
-      "tipoQuarto_id": 4
-    }
-  ],
-  "tipoQuarto": [
-    {
-      "id": 1,
-      "titulo": "suite master",
-      "descricao": "xxxxxxxxxxxx",
-      "limiteAdulto": 4,
-      "limiteCrianca": 2,
-      "precoBase": 500,
-      "avaliacaoMedia": 5,
-      "diasCancelarReserva": 1,
-      "area": 70
-    },
-    {
       "id": 2,
-      "titulo": "standart deluxe 1",
-      "descricao": "xxxxxxxxxxxx",
-      "limiteAdulto": 4,
-      "limiteCrianca": 2,
-      "precoBase": 500,
-      "avaliacaoMedia": 5,
-      "diasCancelarReserva": 1,
-      "area": 70
+      "id_comodidade_id": 3,
+      "tipoQuarto_id": 1
     },
     {
       "id": 3,
-      "titulo": "standart deluxe 2",
-      "descricao": "xxxxxxxxxxxx",
-      "limiteAdulto": 4,
-      "limiteCrianca": 2,
-      "precoBase": 500,
-      "avaliacaoMedia": 5,
-      "diasCancelarReserva": 1,
-      "area": 70
+      "id_comodidade_id": 2,
+      "tipoQuarto_id": 2
     },
     {
       "id": 4,
-      "titulo": "quaro king - frente mar",
-      "descricao": "xxxxxxxxxxxx",
-      "limiteAdulto": 4,
-      "limiteCrianca": 2,
-      "precoBase": 500,
-      "avaliacaoMedia": 5,
-      "diasCancelarReserva": 1,
-      "area": 70
+      "id_comodidade_id": 3,
+      "tipoQuarto_id": 4
     }
   ],
   "comodidade": [
