@@ -3,21 +3,25 @@
   "comodidadeTipoQuarto": [
     {
       "id": 1,
+      "qtd": 1,
       "id_comodidade_id": 1,
       "tipoQuarto_id": 1
     },
     {
       "id": 2,
+      "qtd": 1,
       "id_comodidade_id": 3,
-      "tipoQuarto_id": 1
+      "tipoQuarto_id": 2
     },
     {
       "id": 3,
+      "qtd": 2,
       "id_comodidade_id": 2,
       "tipoQuarto_id": 2
     },
     {
       "id": 4,
+      "qtd": 2,
       "id_comodidade_id": 3,
       "tipoQuarto_id": 4
     }
