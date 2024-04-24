@@ -1,6 +1,6 @@
 {
  
-  "comodidadeTipoQuarto": [
+  "comodidadeTipoQuartos": [
     {
       "id": 1,
       "qtd": 1,
@@ -26,7 +26,7 @@
       "tipoQuarto_id": 4
     }
   ],
-  "comodidade": [
+  "comodidades": [
     {
       "id": 1,
       "titulo": "ar condicionado",
@@ -58,7 +58,7 @@
       "tipoComodidade_id": 2
     }
   ],
-  "tipoComodidade": [
+  "tipoComodidades": [
     {
       "id": 1,
       "titulo": "Quarto",
